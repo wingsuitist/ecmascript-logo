@@ -1,2 +1,3 @@
-# ecamscript-logo
-Fan-Art Ecmascript Logos (non-official)
+# ecma script logos
+
+Fan-Art ecma script Logos (non-official)
