@@ -1,6 +1,7 @@
 # ECMAScript Logos
 
 Fan Art ECMAScript logos (non-official)
+To have a clear set of ECMAScript logos for all years.
 
 ## ES2015 logo
 
