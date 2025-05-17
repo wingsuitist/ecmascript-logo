@@ -23,6 +23,34 @@ To have a clear set of ECMAScript logos for all years.
 
 ![ES2023 Logos](/es2023-ecmascript-logo.png)
 
+## ES2024 logo
+
+![ES2024 Logos](/es2024-ecmascript-logo.png)
+
+## ES2025 logo
+
+![ES2025 Logos](/es2025-ecmascript-logo.png)
+
+## ES2026 logo
+
+![ES2026 Logos](/es2026-ecmascript-logo.png)
+
+## ES2027 logo
+
+![ES2027 Logos](/es2027-ecmascript-logo.png)
+
+## ES2028 logo
+
+![ES2028 Logos](/es2028-ecmascript-logo.png)
+
+## ES2029 logo
+
+![ES2029 Logos](/es2029-ecmascript-logo.png)
+
+## ES2030 logo
+
+![ES2030 Logos](/es2030-ecmascript-logo.png)
+
 ## ES2042 logo
 
 ![ES2042 Logos](/es2042-ecmascript-logo.png)
